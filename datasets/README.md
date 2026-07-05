@@ -1,0 +1,1 @@
+The pipeline handles five datasets: Gross Domestic Product (GDP), labour force, employment, population and gender statistics. Including data from 1960 to 2024 inclusive across 264 countries and regions. 
